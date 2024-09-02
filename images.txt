@@ -1,4 +1,4 @@
-openmetadata
+#openmetadata
 #支持私库
 docker.getcollate.io/openmetadata/db:1.4.3
 docker.getcollate.io/openmetadata/server:1.4.3
