@@ -1,10 +1,10 @@
 
 #elasticsearch
 #infiniflow/infinity:v0.6.0-dev3
-mysql:8.0.39
+#mysql:8.0.39
 #quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
 #valkey/valkey:8
-
+regflow
 
 #confluentinc/cp-kafka:7.4.0
 #acryldata/datahub-actions:head
