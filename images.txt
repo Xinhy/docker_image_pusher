@@ -4,7 +4,7 @@
 #mysql:8.0.39
 #quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
 #valkey/valkey:8
-infiniflow/ragflow
+infiniflow/ragflow:dev
 
 #confluentinc/cp-kafka:7.4.0
 #acryldata/datahub-actions:head
