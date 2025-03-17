@@ -1,21 +1,28 @@
 
-confluentinc/cp-kafka:7.4.0
-acryldata/datahub-actions:head
-acryldata/datahub-frontend-react:head
-acryldata/datahub-gms:head
-acryldata/datahub-upgrade:head
-elasticsearch:7.10.1
-acryldata/datahub-elasticsearch-setup:head
-acryldata/datahub-kafka-setup:head
-mysql:8.2
-acryldata/datahub-mysql-setup:head
-confluentinc/cp-schema-registry:7.4.0
-confluentinc/cp-zookeeper:7.4.0
+docker.elastic.co/elasticsearch/elasticsearch
+infiniflow/infinity:v0.6.0-dev3
+mysql:8.0.39
+quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+valkey/valkey:8
+
+
+#confluentinc/cp-kafka:7.4.0
+#acryldata/datahub-actions:head
+#acryldata/datahub-frontend-react:head
+#acryldata/datahub-gms:head
+#acryldata/datahub-upgrade:head
+#elasticsearch:7.10.1
+#acryldata/datahub-elasticsearch-setup:head
+#acryldata/datahub-kafka-setup:head
+#mysql:8.2
+#acryldata/datahub-mysql-setup:head
+#confluentinc/cp-schema-registry:7.4.0
+#confluentinc/cp-zookeeper:7.4.0
 
 
 #openmetadata
 #支持私库
-docker.elastic.co/elasticsearch/elasticsearch:8.10.2
+#docker.elastic.co/elasticsearch/elasticsearch:8.10.2
 #docker.getcollate.io/openmetadata/db:1.4.3
 #docker.getcollate.io/openmetadata/server:1.4.3
 #docker.getcollate.io/openmetadata/ingestion:1.4.3
